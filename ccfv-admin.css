@@ -1,0 +1,48 @@
+/* Dashboard Page */
+
+.ccfv-wrapper {
+    background: #fff;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+    padding: 1px 20px 20px 20px;
+    margin: 2rem 0;
+}
+.ccfv-wrapper p { font-size: 16px; }
+.ccfv-wrapper strong { font-weight: 700; }
+
+/* Contact settings */
+.contact-settings-form input, .contact-settings-form textarea {
+    border: 1px solid #8c8f945c !important;
+}
+.contact-settings-form th {
+    vertical-align: top;
+    text-align: left;
+    padding: 18px 10px 20px 0;
+    width: 300px;
+    font-weight: 600;
+}
+.not-used { color: red; }
+.contact-settings-form span { font-size: 12px; }
+.contact-settings-form .sec-wrap {
+    display: none;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    color: rgb(30, 30, 30);
+    padding: 1rem 2rem;
+    position: relative;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px 1px;
+    outline: none;
+    border-radius: 6px;
+}
+.contact-settings-form .show {
+    display: block;
+}
+.contact-settings-form td h3 { border-bottom: 1px solid #000; padding-bottom: 4px; display: inline; }
+
+/* Test mail Page */
+.test-mail-wrapper input { width: 100%; display: block; margin: 20px 0; }
+.test-mail-wrapper input[type="submit"] {
+    display: block;
+    width: 10rem;
+    margin-top: 1rem;
+}
