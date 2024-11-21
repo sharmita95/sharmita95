@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Custom Forms and Captcha Plugin
+Plugin Name: Custom Forms with Captcha
 Description: Custom contact Form, Subscription Form & Captcha (contact, comment & subscription form)
 Version: 0.1.3
 Author: Viacon
